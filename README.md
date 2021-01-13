@@ -1,6 +1,6 @@
 # contrador
 
-A new Flutter project.
+Un nuevo proyecto de  Flutter project.
 
 ## Getting Started
 
